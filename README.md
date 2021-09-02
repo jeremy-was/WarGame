@@ -2,7 +2,7 @@
 
 text based war game (card game). computer v computer (automated game play)
 
-The objective of the game is to win all of the cards.
+The objective of the game is to win all of the cards. see wikipedia for rules.
 
 python library used: random
 
